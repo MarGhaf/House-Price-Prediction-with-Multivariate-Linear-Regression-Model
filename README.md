@@ -33,9 +33,15 @@ After obtaining data, the next immediate thing to do is scrubbing data that make
 
 ### Explore data
 
-Once our data is ready to be used, and right before jumping into AI and Machine Learning, we should examine the data to make sense of them. This step will help stackholders to get accurate, actionable insights from our data analytic.To achieve that, we will need to explore the data by inspecting some analytical questions. The below questions might help better insight into our database.
+Once our data is ready to be used, and right before jumping into AI and Machine Learning, we should examine the data to make sense of them. This step will help stackholders to get accurate, actionable insights from our data analytic.To achieve that, we will need to explore the data by inspecting some analytical questions. This step includes below substeps:
 
-#### Question 1;  Which Genres need more budget and create more gross?
+- Inspect the data and its properties: Different data types like numerical data, categorical data, ordinal and nominal data  require different treatments.
+- Compute descriptive statistics:  Extract features and test significant variables
+- Data visualisation: Identify significant patterns and trends in our data
+
+The below questions might help better insight into our database.
+
+#### Question 1;  How does house age impact the house price??
 
 
 
