@@ -14,13 +14,33 @@ When modeling for prediction, we are trying to accurately predict at all costs. 
 The general research strategy in this project is to use OSEMN framework on the King County House Sales dataset. The process includes the below steps:
 
 . Obtain data
+
 . Scrub data
+
 . Explore data
+
 . Model data
+
 . iNterpret
 
 ### Obtain data
 
 The very first step of the project is obtain data. We obtain the data that we need from 'kc_house_data.csv' file. Obtain data starts with importing needed libraries and modules in our framework. Our file is CSV (comma-separated values) file that can be opened using  `pd.read_csv()` method. 
 
-## Scrub data
+### Scrub data
+
+After obtaining data, the next immediate thing to do is scrubbing data that make them operational. In this way, dealing with messy data means dealing with missing values, inconsistent formatting, malformed records, or nonsensical outliers. The beginning of data cleaning is to print a concise summary of a DataFrame with `.info()` method and view a small sample of the DataFrame object with `.head()` method. Through the `.info()` method we access valuable information about missing values and datatype. `.isnull()` is a method that helps us determine the missing value and based on the percentage of them or necessity of them, decided on delete (`.dropna()` method) them or fill (`.fillna()` method) them with suitable values. With `.duplicated()` method we also check the duplications and drop them through `.drop_duplicates()` method.
+
+### Explore data
+
+Once our data is ready to be used, and right before jumping into AI and Machine Learning, we should examine the data to make sense of them. This step will help stackholders to get accurate, actionable insights from our data analytic.To achieve that, we will need to explore the data by inspecting some analytical questions. The below questions might help better insight into our database.
+
+#### Question 1;  Which Genres need more budget and create more gross?
+
+
+
+
+
+
+
+
