@@ -42,8 +42,9 @@ Once our data is ready to be used, and right before jumping into AI and Machine 
 The below questions might help better insight into our database.
 
 #### Question 1;  How does the age of the houses impact the house price?
+To answer this question, house were categorized based on their age. Then their price and mean price were ploted based on age groups. 
 
-
+![image](https://user-images.githubusercontent.com/101681195/193060953-1cab4d21-7d09-4ebe-917b-2dff19a910ca.png)
 
 
 
