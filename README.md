@@ -11,3 +11,16 @@ Realtor.com is a real estate listing website operated by the News Corp subsidiar
 ## Data Understanding and Analysis
 
 When modeling for prediction, we are trying to accurately predict at all costs. Thus, we usualy use all available features (and most likely engineer new features). And, we are less concerned about the coefficients of these features and instead focus on the overall accuracy of our model.
+The general research strategy in this project is to use OSEMN framework on the King County House Sales dataset. The process includes the below steps:
+
+. Obtain data
+. Scrub data
+. Explore data
+. Model data
+. iNterpret
+
+### Obtain data
+
+The very first step of the project is obtain data. We obtain the data that we need from 'kc_house_data.csv' file. Obtain data starts with importing needed libraries and modules in our framework. Our file is CSV (comma-separated values) file that can be opened using  `pd.read_csv()` method. 
+
+## Scrub data
