@@ -46,8 +46,20 @@ To answer this question, house were categorized based on their age. Then their p
 
 ![image](https://user-images.githubusercontent.com/101681195/193060953-1cab4d21-7d09-4ebe-917b-2dff19a910ca.png)
 
+#### Insights
+
+The results from our exploration inform us that:
+- Houses in different age groups have high distribution of prices. 
+- Most of the houses in the market are younger than 45 years.
+- Houses youger than 45 years have higher average price.
+- By increase the age of the house more than 83 years the house average price increasing. 
+
+### Recommendation
+
+Older houses have the potential to introduce as vintage houses. This could attract coustomers to this houses. 
 
 
+#### Question 2; How does house condition impact the house price? 
 
 
 
