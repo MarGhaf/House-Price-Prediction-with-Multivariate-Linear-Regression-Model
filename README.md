@@ -63,8 +63,16 @@ Older houses have the potential to introduce as vintage houses. This could attra
 To answer this question, the relation of house prices with square footage of the house were ploted based on different house conditions.
 
 
+![image](https://user-images.githubusercontent.com/101681195/193094547-f080d46c-1a81-4a31-97b3-e0873132b7c6.png)
 
 
 #### Insights
 
 The results from our exploration inform us that:
+- House price and square footage of the house have a relatively linear relation. 
+- By increasing the square footage of the house the house prices increas
+- Most of the house are in average condition
+- Very good condition in comparison to square footage of the house has a lower impact on house prices
+
+### Recommendation
+
