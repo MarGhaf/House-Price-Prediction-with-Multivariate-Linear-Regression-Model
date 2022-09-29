@@ -54,7 +54,7 @@ The results from our exploration inform us that:
 - Houses youger than 45 years have higher average price.
 - By increase the age of the house more than 83 years the house average price increasing. 
 
-### Recommendation
+#### Recommendation
 
 Older houses have the potential to introduce as vintage houses. This could attract coustomers to this houses. 
 
