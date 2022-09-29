@@ -74,5 +74,8 @@ The results from our exploration inform us that:
 - Most of the house are in average condition
 - Very good condition in comparison to square footage of the house has a lower impact on house prices
 
-### Recommendation
+#### Recommendation
+In all house conditions, square footage of the house has a direct impact on the house price. The average condition has a potential to be sell withoit needing to renovate the house. 
+
+### Model Data
 
