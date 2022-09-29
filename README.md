@@ -41,7 +41,7 @@ Once our data is ready to be used, and right before jumping into AI and Machine 
 
 The below questions might help better insight into our database.
 
-#### Question 1;  How does house age impact the house price??
+#### Question 1;  How does the age of the houses impact the house price?
 
 
 
