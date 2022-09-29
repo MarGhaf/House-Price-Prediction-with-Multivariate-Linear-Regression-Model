@@ -1,5 +1,5 @@
 # Home-Price-Prediction-with-Multivariate-Linear-Regression-Model
-
+https://github.com/MarGhaf/Home-Price-Prediction-with-Multivariate-Linear-Regression-Model/blob/main/Image/realtor.png
 ## Overview
 The real estate market has grown significantly in recent years, given changes in the ways people are buying, selling, and financing their houses. Machine learning and artificial intelligence can make  revolutionary changes in the housing market. Machine learning  algorithms can rapidly organize large quantities of data, sorting through property values, debt information, key home factors, and even consumer information. For instance, through a price-prediction modle a home buyer or sellers have an oppurtunity to decide wisely.
 
