@@ -60,6 +60,11 @@ Older houses have the potential to introduce as vintage houses. This could attra
 
 
 #### Question 2; How does house condition impact the house price? 
+To answer this question, the relation of house prices with square footage of the house were ploted based on different house conditions.
 
 
+![image](https://user-images.githubusercontent.com/101681195/193093001-619ff696-d296-4d1b-b34a-4f1b9884f70c.png)
 
+#### Insights
+
+The results from our exploration inform us that:
