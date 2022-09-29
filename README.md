@@ -64,6 +64,7 @@ To answer this question, the relation of house prices with square footage of the
 
 
 
+
 #### Insights
 
 The results from our exploration inform us that:
