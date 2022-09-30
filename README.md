@@ -99,7 +99,7 @@ After covering these modifications, multiple linear regression model was built u
 
 - Adjusted R squared: :
 
-  >Through the final model, the Adj R squared value was increased by an entire thousandth. The basline model Adj R is 0.675. And the final model Adj R is 0.691 which means 69.1% of the variations in price 𝑦 are explained by the features in our model. It is not a strong R square. But the coefficients of the variables are quite strong.
+  >Through the final model, the Adj R squared value was increased by an entire thousandth. The baseline model Adj R is 0.675. And the final model Adj R is 0.691 which means 69.1% of the variations in price 𝑦 are explained by the features in our model. It is not a strong R square. But the coefficients of the variables are quite strong.
 
 - Coefficients:
 
