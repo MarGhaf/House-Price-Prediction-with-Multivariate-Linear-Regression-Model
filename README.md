@@ -1,4 +1,4 @@
-# Home-Price-Prediction-with-Multivariate-Linear-Regression-Model
+# House-Price-Prediction-with-Multivariate-Linear-Regression-Model
 
 ![image](Image/realtor.png)
 
