@@ -78,4 +78,19 @@ The results from our exploration inform us that:
 > In all house conditions, square footage of the house has a direct impact on the house price. The average condition has a potential to be sell withoit needing to renovate the house. 
 
 ## Model Data
-The first step was to bulid a "baseline model" from the dataset. Any decisions on how to change features was compared against a baseline model to see if the changes have improved the model or not. Several techniques were tried to improve the regression model.
+The first step was to bulid a "baseline model" from the dataset. Any decisions on how to change features was compared against a baseline model to see if the changes have improved the model or not. Below techniques were tried to improve the regression model was listed:
+
+- Transform categorical variables
+- Check outliers and remove them
+- Check Multicollinearity of features and remove them
+- Feature scaling and normalization
+- Check intractions between features
+
+After covering these modifications, multiple linear regressions was built using the Statsmodels and Scikit-Learn libraries. In the next step, below  metrics for evaluationin linear regression were assessed:
+- Adjusted R^2: Measures variation explained by only the independent variables that actually affect the dependent variable
+- Mean Squared Error (MSE): The most common metric for regression tasks is MSE. It is the average squared difference between the estimated values and the actual value.
+- Coefficients: Describe the mathematical relationship between each independent variable and the dependent variable.
+- P-values: Indicate whether the relationships are statistically significant
+
+## iNterpret
+
