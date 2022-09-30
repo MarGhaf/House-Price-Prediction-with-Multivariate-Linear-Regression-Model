@@ -88,9 +88,22 @@ The first step was to bulid a "baseline model" from the dataset. Any decisions o
 
 After covering these modifications, multiple linear regressions was built using the Statsmodels and Scikit-Learn libraries. In the next step, below  metrics for evaluationin linear regression were assessed:
 - Adjusted R^2: Measures variation explained by only the independent variables that actually affect the dependent variable
-- Mean Squared Error (MSE): The most common metric for regression tasks is MSE. It is the average squared difference between the estimated values and the actual value.
 - Coefficients: Describe the mathematical relationship between each independent variable and the dependent variable.
 - P-values: Indicate whether the relationships are statistically significant
+- Mean Squared Error (MSE): The most common metric for regression tasks is MSE. It is the average squared difference between the estimated values and the actual value.
 
-## iNterpret
+## Interpret Modle
 
+![image](https://user-images.githubusercontent.com/101681195/193163642-4c5c72fe-57da-4f6c-b4b5-d2b0e11b4ae6.png)
+
+- Adjusted R^2:
+We were able to increase the Adj R Sqaured value by an entire thousandth through rigorous experimentation. The basline model Adj R is 0.675. The final modle Adj R is 0.691 that means 69.1% of the variations in price 𝑦 are explained by the features in our model. It is not a strong R square. But the coefficients of the variables are quite strong.
+
+- Coefficients
+The variables have high values for coefficients and grade_13_Mansion has highest coefficient. Other determiners for house price are waterfront views, condition, floors,age, and bathrooms.
+
+- P-values:
+All the p-values are quite low, that indicates there is sufficient evidence in the sample to conclude that a correlation exists.
+
+- Mean Squared Error (MSE): 
+The model underestimated 21.93% of house prices by over 100,000 and overestimated 26.32% house prices by over 100,000
