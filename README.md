@@ -41,7 +41,7 @@ Once our data is ready to be used, and right before jumping into AI and Machine 
 
 The below questions might help better to have insight into our database.
 
-### Question 1;  How does the age of the houses impact the house price?
+### Question 1.  How does the age of the houses impact the house price?
 To answer this question, houses were categorized based on their age. Then their price and mean price were plotted based on age groups. 
 
 ![image](https://user-images.githubusercontent.com/101681195/193060953-1cab4d21-7d09-4ebe-917b-2dff19a910ca.png)
@@ -59,7 +59,7 @@ The results from our exploration inform us that:
 > Older houses have the potential to introduce as vintage houses. This could attract customers to these houses.. 
 
 
-### Question 2; How does house condition impact the house price? 
+### Question 2. How does house condition impact the house price? 
 To answer this question, the relation of house prices with the square footage of the house was plotted based on different house conditions.
 
 
