@@ -3,7 +3,7 @@
 ![image](Image/realtor.png)
 
 # Overview
-The real estate market has grown significantly in recent years, given changes in the ways people are buying, selling, and financing their houses. Machine learning and artificial intelligence can make revolutionary changes in the housing market. Machine learning algorithms can rapidly organize large quantities of data, sorting through property values, debt information, key home factors, and even consumer information. For instance, through a price-prediction modle, a home buyer or sellers have an opportunity to decide wisely.
+The real estate market has grown significantly in recent years, given changes in the ways people are buying, selling, and financing their houses. Machine learning and artificial intelligence can make revolutionary changes in the housing market. Machine learning algorithms can rapidly organize large quantities of data, sorting through property values, debt information, key home factors, and even consumer information. For instance, through a price-prediction model, a home buyer or sellers have an opportunity to decide wisely.
 
 # Business Understanding
 Realtor.com is a real estate listing website operated by the News Corp subsidiary Move, Inc. It was relaunched in 1996 as a public website displaying property listings. Now they want to offer valuations of houses using machine learning techniques to their customers. The company asked to design a model that be used to predict house sales in King County, Washington State, USA using Multiple Linear Regression (MLR). The dataset consisted of historic data of houses sold between May 2014 to May 2015. They need this model to guide real estate investors who use the platform to have a better decision on which house is more valuable to invest.
@@ -21,7 +21,7 @@ The general research strategy in this project is to use OSEMN framework on the K
 
 - Model data
 
-- Interpret modle
+- Interpret model
 
 ## Obtain data
 
@@ -33,7 +33,7 @@ After obtaining data, the next immediate thing to do is scrubbing data that make
 
 ## Explore data
 
-Once our data is ready to be used, and right before jumping into AI and Machine Learning, we should examine the data to make sense of them. This step will help stackholders to get accurate, actionable insights from our data analytic.To achieve that, we will need to explore the data by inspecting some analytical questions. This step includes below substeps:
+Once our data is ready to be used, and right before jumping into AI and Machine Learning, we should examine the data to make sense of them. This step will help stakeholders to get accurate, actionable insights from our data analytic. To achieve that, we will need to explore the data by inspecting some analytical questions. This step includes below substeps:
 
 - Inspect the data and its properties: Different data types like numerical data, categorical data, ordinal and nominal data require different treatments.
 - Compute descriptive statistics:  Extract features and test significant variables
@@ -56,7 +56,7 @@ The results from our exploration inform us that:
 
 ### Recommendation
 
-> Older houses have the potential to introduce as vintage houses. This could attract customers to these houses.. 
+> Older houses have the potential to introduce as vintage houses. This could attract customers to these houses. 
 
 
 ### Question 2. How does house condition impact the house price? 
@@ -86,7 +86,7 @@ The first step was to build a "baseline model" from the dataset. Any decisions o
 - Feature scaling and normalization
 - Check interactions between features
 
-After covering these modifications, multiple linear regression model was built using the Statsmodels and Scikit-Learn libraries. In the next step, below  metrics for evaluation linear regression were assessed:
+After covering these modifications, multiple linear regression model was built using the Statsmodels and Scikit-Learn libraries. In the next step, below metrics for evaluation linear regression were assessed:
 
 - Adjusted R squared:  Measures variation explained by only the independent variables that affect the dependent variable
 - Coefficients: Describe the mathematical relationship between each independent variable and the dependent variable.
@@ -97,7 +97,7 @@ After covering these modifications, multiple linear regression model was built u
 
 ![image](https://user-images.githubusercontent.com/101681195/193163642-4c5c72fe-57da-4f6c-b4b5-d2b0e11b4ae6.png)
 
-- Adjusted R squared: :
+- Adjusted R squared: 
 
   >Through the final model, the Adj R squared value was increased by an entire thousandth. The baseline model Adj R is 0.675. And the final model Adj R is 0.691 which means 69.1% of the variations in price 𝑦 are explained by the features in our model. It is not a strong R square. But the coefficients of the variables are quite strong.
 
