@@ -112,3 +112,16 @@ After covering these modifications, multiple linear regression model was built u
 - Mean Squared Error (MSE): 
 
   >The model underestimated 21.93% of house prices by over 100,000 and overestimated 26.32%  of house prices by over 100,000. 
+  
+  
+  
+  ## Repository Structure
+
+
+```
+├── Code : student.ipynb includ modeling
+├── Data : Data used for modeling, includes 'kc_house_data.csv' file
+├── Images : Images used in Phase 2 Project Presentation.pdf and README
+├── Phase 2 Project Presentation.pdf : Presentation for stakeholders
+└── README.md : Project information and repository structure
+```
