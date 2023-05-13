@@ -95,7 +95,7 @@ After covering these modifications, multiple linear regression model was built u
 
 ## Interpret model
 
-![image](https://user-images.githubusercontent.com/101681195/193163642-4c5c72fe-57da-4f6c-b4b5-d2b0e11b4ae6.png)
+
 
 - Adjusted R squared: 
 
